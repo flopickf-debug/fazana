@@ -13,7 +13,7 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 
 # --- КОНФИГУРАЦИЯ ---
 # ВНИМАНИЕ: СРОЧНО ПОМЕНЯЙ ТОКЕНЫ ПОСЛЕ ТЕСТИРОВАНИЯ!
-BOT_TOKEN = "7987454041:AAGU-DGvVqgN7rioySxL5zINEk60WSlkUW4"
+BOT_TOKEN = "8619004990:AAE92G8vLIKcPzryM6GFjJqwPn5JBC9sCbY"
 GOOGLE_API_KEY = "AIzaSyDZUuMn8B8t_REygaEGpEI47hyLSQrDKDk"
 SCHEDULE_TABLE_ID = "1X6YF54l1rgP7MFfkTa1b_L6f4f3aWuADZwF8wwTWKK4"
 DB_TABLE_ID = "11KbeilP1HRonHQAAZusBS1-ffNo4FxHXa239yZMKJm8"
